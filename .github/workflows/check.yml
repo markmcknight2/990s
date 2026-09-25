@@ -1,0 +1,12 @@
+name: Check site
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check pages, assets, cohorts and sizes
+        run: python3 .github/check_site.py .

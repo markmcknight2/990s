@@ -1,0 +1,170 @@
+{
+ "stamp": "2026-09-25 16:10",
+ "pages": 4985,
+ "fixtures": {
+  "10-klicks-outdoors-inc": {
+   "peers": 2477,
+   "sha256": "cf70ac6cbbe34bb099c0d6b0f6d9447c8e3eb85e2742c9f89baec4ded9410918"
+  },
+  "ambeedo": {
+   "peers": 1613,
+   "sha256": "422a4167732f525fcc0e5acd10b070a9c8ddc13d3132aa69c85754e297efa72a"
+  },
+  "audubon-nature-institute-inc": {
+   "peers": 2770,
+   "sha256": "40a9d43412b93749c83f9cc7c72fe9283cfa597aa7794e9632a478bfd5053211"
+  },
+  "biophilly": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "bronx-land-trust": {
+   "peers": 2833,
+   "sha256": "41a9cecade20c84aca778d50e20b414e0d04173ec9fce7175ea41351d91a98fa"
+  },
+  "cathleen-stone-island-education-center-inc": {
+   "peers": 2778,
+   "sha256": "d32c31687b3051764395c756f9aba0c6c480fd75bf20cc47d031d81a350131a3"
+  },
+  "chihuahuan-desert-research-institute": {
+   "peers": 2845,
+   "sha256": "5913d14b1749f0edf023d5c1ad0c7d3f440f20bde52cce8801a4663c78cc173d"
+  },
+  "coastal-defense-educators": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "covington-theological-seminary-inc": {
+   "peers": 2362,
+   "sha256": "74f76e314ea8e233c806ed0edf826e0465e4a2c4a0e8c2a27581ef032a47f5af"
+  },
+  "downtown-chattanooga-business-improvement-district-board": {
+   "peers": 2669,
+   "sha256": "70caadac7007bf5e2127c5cc09274f430131bfe7ed58e53db51ce5b57363951c"
+  },
+  "ecological-land-stewardship-academy": {
+   "peers": 2514,
+   "sha256": "8a84d0ff586d9f6bd465f26fd2aafd2e431d151f14c7f1fc1aa0492aa1f1eec1"
+  },
+  "environmentalists-for-education-reform-inc": {
+   "peers": 1948,
+   "sha256": "a4ab1c7abd7d29547b4ed8da868404fb5293122770f8a6e0e0361bbee4d2b877"
+  },
+  "florida-native-plant-society-pine-lily-chapter-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "friends-of-hiland-hall-garden-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "futuregro-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "grades-of-green-inc": {
+   "peers": 2845,
+   "sha256": "3921ec8e8525356d5ab597c5b800f0eb02fa0a299dc5b0851d814a1aca6e1fb3"
+  },
+  "guayabo-bay": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "hershey-gardens": {
+   "peers": 2779,
+   "sha256": "c6cbfa7c83c3955a90167375920d81758f169497fe4d0ba07b2c1fd68400598d"
+  },
+  "idaho-interfaith-power-light": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "joe-ford-nature-center": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "lake-champlain-botanical-garden-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "live-at-the-well": {
+   "peers": 2845,
+   "sha256": "e10095d37d864a7ae412806b863fe320feff9c1f6ecb0e3f0c91357bf2585ba3"
+  },
+  "marine-protected-area-collaborative-network": {
+   "peers": 2569,
+   "sha256": "2390b8b9b6e460f2b3af92cefd170bf5f5d73f1344468ac1ee846bbb1207bce9"
+  },
+  "minnesota-landscape-arboretum": {
+   "peers": 2846,
+   "sha256": "16c5fa881dfb04ff0c02e2522697fd97de5f92f0db571e2f4453054eb7c2a00f"
+  },
+  "national-initiative-by-consumers-ofenergy": {
+   "peers": 2778,
+   "sha256": "6e9380e5221d50a6bef82dec59b1a3136286c97106d76de04a5ad95702139c11"
+  },
+  "next-generation-beekeepers": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "oglebay-institute": {
+   "peers": 2845,
+   "sha256": "95bb70e672f142df5ef33c5823709abd4bdbba158d2f0307276fbfbf38015bce"
+  },
+  "pacific-symphony": {
+   "peers": 2715,
+   "sha256": "d7c36f897d837da8d1ea84754feb63327b296c46dcbbf1065904f49ecb63997a"
+  },
+  "planet-axis-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "protect-rural-napa-education-fund": {
+   "peers": 1981,
+   "sha256": "56b378a302c2024d669f20fb6c02e7f1a1f866d917ebd8c52a72bcda7746c1a4"
+  },
+  "riparian-and-permaculture-education-center": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "salton-sea-conservation-coalition": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "seegreen": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "soulaani-environmental-alliance": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "sun-sol-sustainability": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "texas-master-naturalists-capital-area-chapter-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "the-urban-wild-inc": {
+   "peers": 2549,
+   "sha256": "73ac94851599fd86bef405be316bcdb1d37d29e08ffeb3b4399cca3bc8aa0e39"
+  },
+  "turning-tides-foundation-inc": {
+   "peers": 0,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "warrior-freedom-service-dogs-inc": {
+   "peers": 2610,
+   "sha256": "ee1a00f44fa2d789045d3470fc29a39f68696cc7355b98062a4c868832087b16"
+  },
+  "wild-wonder-foundation": {
+   "peers": 2610,
+   "sha256": "4b29bad8f183d3b841acae6fa76e529103e8d47ec35bc55854ab4b25dc582fe9"
+  },
+  "youngstown-symphony-society-inc": {
+   "peers": 2715,
+   "sha256": "7227ec130291fb4a09df1f8fee6534aad6f2bd63baa9561ad48587621898273e"
+  }
+ }
+}
