@@ -702,3 +702,5 @@ text.ax{font:13px ui-sans-serif,system-ui,sans-serif;fill:var(--axis)}
   .drf{break-inside:avoid;print-color-adjust:exact;-webkit-print-color-adjust:exact}
   .tng-on,.tng-gap{print-color-adjust:exact;-webkit-print-color-adjust:exact}
   .tagchip{border-color:#cbd5e1}}
+.opf-grid>*{min-width:0}
+@media screen and (max-width:900px){.opf-grid{grid-template-columns:minmax(0,1fr) !important}}
